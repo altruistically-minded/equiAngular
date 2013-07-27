@@ -1,6 +1,7 @@
 'use strict';
 
 /* App Module */
+
 angular.module('phonecat', []).
   config(['$routeProvider', function($routeProvider) {
   $routeProvider.
